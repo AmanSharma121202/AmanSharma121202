@@ -1,4 +1,4 @@
-# Hi there, I'm Aman Sharma 👋
+                                                                                                 # Hi there, I'm Aman Sharma 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-sharma-34927825b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -44,12 +44,10 @@ Here are some of the projects I'm most proud of:
 
 ## 📊 My GitHub Stats
 
-**Remember to replace `your-github-username` with your actual GitHub username!**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanSharma121202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aman's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSharma121202&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
