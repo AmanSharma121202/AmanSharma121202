@@ -1,14 +1,5 @@
 # Hi there, I'm Aman Sharma 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-sharma-34927825b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/Aman_sharma18/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
-
 <p align="left">
   I'm a <b>passionate learner</b> and a final-year B.Tech Computer Science student at <b>Delhi Technological University (DTU)</b>. My expertise lies in building modern, responsive web applications, and I have a strong foundation in <b>C++</b> for core programming concepts and problem-solving.
 </p>
